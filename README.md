@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **TobeChukwu278/TobeChukwu278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TobeChukwu278&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 ---
