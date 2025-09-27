@@ -14,3 +14,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Tobechukwu</h1>
+<h3 align="center">Frontend / Full-Stack JavaScript Developer</h3>
+
+---
+
+### 🧑‍💻 About Me
+- 🔭 Currently building **[tic-nnewi](https://tic-nnewi-v2.vercel.app/)** – a marketplace platform.
+-  🔭 Currently working on **MarketMeet** - a marketplace platform.
+- 🧑‍🏫 Web development teacher with a passion for **React & Backend JavaScript**.
+- 🌱 Always learning **Next.js, TypeScript, and scalable architecture**.
+- 💡 Interested in **AI agents** and real-time applications.
+- ⚡ Fun fact: I love clean UI and efficient code.
+
+---
+
+### ⚡ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p>
+  <a href="mailto: ejiofortobechi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tobechukwu-ejiofor-493925316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/TAGdev278?t=-J_yKPhy5x-_QZnlTkbEcQ&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+   <a href="https://wa.me/2348075029003" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+💡 *“Code is like humor. When you have to explain it, it’s bad.”*
