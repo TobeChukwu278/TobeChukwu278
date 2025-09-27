@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TobeChukwu278&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobeChukwu278&layout=compact&theme=radical)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TobeChukwu&theme=github-compact)](https://github.com/<your-username>)
 </p>
 
 ---
