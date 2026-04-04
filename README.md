@@ -21,13 +21,9 @@ Here are some ideas to get you started:
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently building **[tic-nnewi](https://tic-nnewi-v2.vercel.app/)** – a marketplace platform.
--  🔭 Currently working on **MarketMeet** - a marketplace platform.
--  🔭 Currently working on **TestPrep** - a web-based Computer-Based Testing System .
-- 🧑‍🏫 Web development teacher with a passion for **React & Backend JavaScript**.
-- 🌱 Always learning **Next.js, TypeScript, and scalable architecture**.
-- 💡 Interested in **AI agents** and real-time applications.
-- ⚡ Fun fact: I love clean UI and efficient code.
+- Just code and consistency.
+
+- Code • Build • Improve • Repeat
 
 ---
 
