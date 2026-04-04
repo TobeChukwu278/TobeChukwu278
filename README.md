@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Tobechukwu</h1>
-<h3 align="center">Frontend / Full-Stack JavaScript Developer</h3>
+<h3 align="center">JavaScript Developer</h3>
 
 ---
 
