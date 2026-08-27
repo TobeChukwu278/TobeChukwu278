@@ -1,68 +1,58 @@
+# Tobechukwu
 
+**Backend developer.**
 
-<!--
-**TobeChukwu278/TobeChukwu278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code, build systems, break things, fix them, and move on.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Tobechukwu</h1>
-<h3 align="center">JavaScript Developer</h3>
+No guru shit.
+No *10x developer* bullshit.
+Just **code → build → improve → repeat.**
 
 ---
 
-### 🧑‍💻 About Me
-- Just code and consistency.
+### What I do
 
-- Code • Build • Improve • Repeat
+* Build backend systems & APIs
+* Design services that don't fall apart under pressure
+* Work with databases, caching, queues & distributed systems
+* Turn ideas into things people can actually use
 
----
+### Stack
 
-### ⚡ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+`JavaScript` · `TypeScript` · `Node.js` · `Go` · `Fastify` · `Express`
+`MongoDB` · `PostgreSQL` · `Redis` · `React` · `Next.js`
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TobeChukwu278&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeChukwu278&layout=compact&theme=radical" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TobeChukwu278&theme=github-compact" />
-</p>
+### Currently
+
+Building.
+Learning.
+Breaking things.
+Getting better.
+
+One system at a time.
 
 ---
 
-### 🌐 Connect With Me
-<p>
-  <a href="mailto: ejiofortobechi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tobechukwu-ejiofor-493925316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/TAGdev278?t=-J_yKPhy5x-_QZnlTkbEcQ&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-   <a href="https://wa.me/2348075029003" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+### Some things I've built
+
+**PaidInk** — backend infrastructure for a monetization platform.
+
+**Yantra** — AI-native learning infrastructure.
+
+**Soter** — open-source tooling around Stellar.
+
+**Eduvault** — decentralized student-owned storage.
+
+More experiments live in the repositories.
 
 ---
 
-💡 *“Code is like humor. When you have to explain it, it’s bad.”*
+### Find me
+
+[GitHub](https://github.com/TobeChukwu278) · [LinkedIn](https://www.linkedin.com/in/tobechukwu-ejiofor-493925316/) · [X](https://x.com/TAGdev278)
+
+---
+
+> *I don't chase hype. I chase better code.*
